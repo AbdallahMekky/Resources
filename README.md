@@ -1,2 +1,2 @@
 # Resources
-ULTIMATE RESOURCES FOR ENGINEERS AND DEVELOPERS.
+Ultimate resources for Engineers and Developers.
