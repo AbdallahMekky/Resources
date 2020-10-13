@@ -1,2 +1,3 @@
 # Resources
-Ultimate resources for Engineers and Developers.
+
+The ultimate resources for Web Developers and Designers.
